@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CRUD-worklight">
+        <wb-resource deploy-path="/" source-path="/apps/CRUDWorklight/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/CRUDWorklight/android"/>
+        <wb-resource deploy-path="/" source-path="/apps/CRUDWorklight/iphone"/>
+        <property name="context-root" value="CRUD-worklight"/>
+    </wb-module>
+</project-modules>
