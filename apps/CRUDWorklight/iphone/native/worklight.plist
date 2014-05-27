@@ -5,7 +5,7 @@
 	<key>protocol</key> 
 	<string>http</string>
 	<key>host</key>
-	<string>10.1.1.14</string>
+	<string>10.1.1.7</string>
 	<key>port</key>
 	<string>10080</string>
 	<key>wlServerContext</key>

@@ -5,8 +5,8 @@
              disclosure restricted by GSA ADP Schedule Contract with IBM Corp. -->
 <!-- Attribute "id" must be identical to application folder name -->
 <application xmlns="http://www.worklight.com/application-descriptor" id="CRUDWorklight" platformVersion="6.1.0.01.20140427-1450">
-    <displayName>CRUDWorklight</displayName>
-    <description>CRUDWorklight</description>
+    <displayName>CRUDW</displayName>
+    <description>CRUDW</description>
     <author>
         <name>Mohammad Nurdin bin Norazan</name>
         <email>mohammadnrdn@gmail.com</email>

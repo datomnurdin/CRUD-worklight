@@ -18,9 +18,9 @@ a, abbr, address, article, aside, audio, b, blockquote, body, canvas, caption, c
 
 /* Worklight container div */
 body {
-	height: 460px;
+	min-height: 460px;
 	margin: 0 auto;
-	width: 320px;
+	/*width: 320px;*/
 }
 
 h1 {
@@ -28,9 +28,9 @@ h1 {
 }
 
 #AppBody {
-	height: 460px;
+	min-height: 460px;
 	margin: 0 auto;
-	width: 320px;
+	/*width: 320px;*/
 	background-color: #ccc;
 	overflow: hidden;
 	overflow-y: auto;
@@ -53,6 +53,27 @@ h1 {
 
 p{
 	padding: 10px;
+}
+
+#itemsList{
+	margin-top: 38px;
+}
+
+#itemsList li {
+	border-bottom: 1px solid #bbb;
+	min-height: 40px;
+	padding: 0 25px 0 15px;
+	cursor: pointer;
+}
+
+#itemsList li .pubDate {
+	color: #555;
+	font-size: 10px;
+	font-family: Arial;
+}
+
+#itemsList li:hover {
+	background-color: #EFEFEF;
 }
 /* Stylesheet content from css/main.css in folder iphone */
 

@@ -33,7 +33,7 @@
         <key>Key</key>
         <string>serverURL</string>
         <key>DefaultValue</key>
-        <string>http://10.1.1.14:10080/CRUD-worklight/</string>
+        <string>http://10.1.1.7:10080/CRUD-worklight/</string>
         <key>KeyboardType</key>
         <string>Alphabet</string>
       </dict>
